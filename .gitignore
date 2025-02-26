@@ -1,0 +1,6 @@
+/storage/
+/Makefile
+/.docker/
+/server.php
+/vendor/
+/.env
