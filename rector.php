@@ -11,6 +11,6 @@ return RectorConfig::configure()
         __DIR__ . '/public',
     ])
     ->withTypeCoverageLevel(3)
-    ->withDeadCodeLevel(3)
+    ->withDeadCodeLevel(0)
     ->withCodeQualityLevel(3);
 
