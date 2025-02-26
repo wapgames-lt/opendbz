@@ -4,3 +4,5 @@
 /server.php
 /vendor/
 /.env
+/.idea
+/.vscode
